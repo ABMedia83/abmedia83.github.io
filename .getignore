@@ -1,7 +1,5 @@
 package.json
-
 style.scss 
-
+package-lock.json
 /styles/*
-
 /node_modules/*
