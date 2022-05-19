@@ -1,0 +1,8 @@
+package.json
+gulpfile.js 
+nav.html
+footer.html
+head.html 
+/dev/*
+
+/node_modules/*
