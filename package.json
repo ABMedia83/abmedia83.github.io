@@ -1,0 +1,29 @@
+{
+  "name": "abmedia83.github.io",
+  "version": "1.0.0",
+  "description": "ABMedia83 Personal/Portfolio Website ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albertmpro/abmedia83.github.io.git"
+  },
+  "keywords": [
+    "ABMedia83",
+    "Albert",
+    "Programmer",
+    "Web",
+    "Designer"
+  ],
+  "author": "Albert M. Byrd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albertmpro/abmedia83.github.io/issues"
+  },
+  "homepage": "https://github.com/albertmpro/abmedia83.github.io#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}

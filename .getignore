@@ -1,8 +1,7 @@
 package.json
-gulpfile.js 
-nav.html
-footer.html
-head.html 
-/dev/*
+
+style.scss 
+
+/styles/*
 
 /node_modules/*
