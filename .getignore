@@ -1,7 +1,7 @@
 package.json
-style.scss 
+style.scss
+style.map.css
 package-lock.json
-
 /styles/*
 /sass-cache/*
 /node_modules/*
