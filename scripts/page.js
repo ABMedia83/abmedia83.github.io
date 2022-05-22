@@ -11,7 +11,7 @@ mynav.innerHTML += "<a href='index.html' title='ABMedia83 Home Page' class='home
 "<li><a href='contact.html' title='Contact'>contact</a>"+
 "</ul>"+
 "</div> \n"+
-"<div class='mnu'>"+
+"<div class='mnu' title='Menu' >"+
 "<div class='bar'></div>"+
 "<div class='bar'></div>"+
 "<div class='bar'></div>"+
