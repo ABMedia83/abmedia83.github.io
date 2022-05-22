@@ -24,12 +24,12 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Urbanist Black", "Courier", monospace;
 }
 
-container {
+.container {
   position: relative;
   display: block;
-  width: 96%;
+  width: 100%;
   padding: 25px 20px;
-  top: 180px;
+  top: 50px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -47,7 +47,6 @@ footer {
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
 }
-
 
 .ab-header {
   position: relative;
@@ -222,14 +221,14 @@ nav li {
   display: flex;
   background-image: url(../images/AB2022Logo_1.png);
   background-size: cover;
-  width: 100px;
+  width: 103px;
   height: 40px;
 }
 
 .home:hover {
   background-image: url(../images/AB2022Logo_12.png);
   background-size: cover;
-  width: 100px;
+  width: 103px;
   height: 40px;
 }
 
@@ -311,14 +310,14 @@ nav li {
 
   .home {
     display: flex;
-    width: 100px;
+    width: 103px;
     height: 40px;
     flex-direction: column;
     position: relative;
   }
 
   .home:hover {
-    width: 100px;
+    width: 103px;
     height: 40px;
   }
 
