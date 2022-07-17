@@ -1,0 +1,29 @@
+{
+  "name": "abmedia83.github.io",
+  "version": "1.0.0",
+  "description": "ABMedia83 Github Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ABMedia83/abmedia83.github.io.git"
+  },
+  "keywords": [
+    "ABMedia83",
+    "Website",
+    "Deisgn",
+    "Programming",
+    "Video",
+    "Fun",
+    "3d",
+    "Design"
+  ],
+  "author": "Albert M. Byrd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albertmpro/abmedia83.github.io/issues"
+  },
+  "homepage": "https://github.com/albertmpro/abmedia83.github.io#readme"
+}
