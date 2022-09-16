@@ -79,6 +79,9 @@ header {
   display: flex;
   background: #004E77;
   height: 50px;
+  width: 100%;
+  position: fixed;
+  z-index: 1;
 }
 @media (max-width: 768px) {
   header {
