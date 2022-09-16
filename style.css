@@ -66,6 +66,15 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Urbanist Black", "Arial Black", sans-serif;
 }
 
+h1 {
+  font-size: 65pt;
+}
+
+.imgDisplay-1 {
+  width: 900px;
+  display: block;
+}
+
 header {
   display: flex;
   background: #004E77;
@@ -113,7 +122,7 @@ header {
 }
 
 .row-secondary {
-  background: #cb0e17;
+  background: #1e0ca8;
 }
 
 .col-1 {
@@ -272,10 +281,36 @@ header {
     width: 100%;
   }
 }
+.col-60-40-40 {
+  width: 40%;
+  margin: 0 15px 30px;
+  box-sizing: border-box;
+  padding-left: 1.3rem;
+  padding-right: 1.3rem;
+}
+@media (max-width: 480px) {
+  .col-60-40-40 {
+    width: 100%;
+  }
+}
+
+.col-60-40-60 {
+  width: 60%;
+  margin: 0 15px 30px;
+  box-sizing: border-box;
+  padding-left: 1.3rem;
+  padding-right: 1.3rem;
+}
+@media (max-width: 480px) {
+  .col-60-40-60 {
+    width: 100%;
+  }
+}
+
 footer {
   width: 100%;
   display: flex;
-  background-color: #cb0e17;
+  background-color: #141414;
   height: 60px;
 }
 
