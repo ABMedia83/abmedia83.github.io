@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/albertmpro/abmedia83.github.io/issues"
   },
-  "homepage": "https://github.com/albertmpro/abmedia83.github.io#readme"
+  "homepage": "https://github.com/albertmpro/abmedia83.github.io#readme",
+  "devDependencies": {
+    "sass": "^1.54.9"
+  }
 }
